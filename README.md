@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://kauandesousa.github.io/html-css/exercicios/ex023/android.html">Executar o desafio 023</a>
+<a href="https://kauandesousa.github.io/html-css/exercicios/ex001/index.html">Executar o desafio 023</a>
