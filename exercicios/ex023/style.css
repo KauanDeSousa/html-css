@@ -176,12 +176,6 @@ section > h4 {
     padding: 10px;    
 }
 
-
-.right > p {
-    <section class="left">
-    
-}
-
 section.left {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.548);
 }
@@ -211,12 +205,5 @@ footer > p {
     color: white;
 }
     
-@media (max-width: 1000px) {
-    header {
-        width: 100%;
-        
-    }
-}
- 
 
 
